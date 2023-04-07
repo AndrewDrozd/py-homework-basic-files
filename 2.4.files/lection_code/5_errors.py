@@ -29,5 +29,5 @@ with open('file.txt', 'w') as f:
     with open('file.txt') as f1:
         print(f1.read())
 
-# with open('file.txt') as f1:
-#     print(f1.read())
+with open('file.txt') as f1:
+    print(f1.read())

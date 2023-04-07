@@ -19,8 +19,8 @@ def get_int():
 
 
 try:
-    # get_index()
-    # get_int()
+    get_index()
+    get_int()
     print("Начало работы")
 except IndexError:
     print("Index Error")
